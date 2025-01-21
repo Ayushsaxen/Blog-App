@@ -15,6 +15,11 @@ Create a Post: Authenticated users can create and publish blog posts.
 
 Home Page: Displays all blog posts with details like title, author, and summary.
 
+
+This is a screenshot of the application:
+
+![Application Screenshot](Screenshota.png "Screenshot")
+
 Pages
 
 1. Login Page
